@@ -1,6 +1,6 @@
 #basic class and object
 # problem-> create a car class with attributes like brand and model. then create a instance of this class.
-
+#self is keyworkd which is used 
 class Car:
     def __inti__ (self,brand,model): 
         self.brand=brand
